@@ -18,6 +18,7 @@ Bootstrap, the world’s most popular front-end open source toolkit, featuring S
 https://getbootstrap.com/
 
 https://www.w3schools.com/
+W3Schools is a school for web developers, covering all the aspects of web development:
 
 https://developer.mozilla.org/
  майже біблії початкового розробника вебу, як чогось не можете зрозуміти тут є пояснення по всіх тегах, стилях, функціях і т.д.

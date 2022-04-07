@@ -19,5 +19,8 @@ https://getbootstrap.com/
 
 https://www.w3schools.com/
 
-https://developer.mozilla.org/ru/docs/Web
+https://developer.mozilla.org/
  майже біблії початкового розробника вебу, як чогось не можете зрозуміти тут є пояснення по всіх тегах, стилях, функціях і т.д.
+
+https://codepen.io/
+CodePen is a social development environment. At its heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating online code editor for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.

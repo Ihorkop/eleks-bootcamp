@@ -18,5 +18,6 @@ Bootstrap, the world’s most popular front-end open source toolkit, featuring S
 https://getbootstrap.com/
 
 https://www.w3schools.com/
+
 https://developer.mozilla.org/ru/docs/Web
  майже біблії початкового розробника вебу, як чогось не можете зрозуміти тут є пояснення по всіх тегах, стилях, функціях і т.д.

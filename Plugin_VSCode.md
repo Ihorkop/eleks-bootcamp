@@ -16,4 +16,8 @@ https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
 ~Highlight Matching Tag highlights matching opening and/or closing tags. Optionally it also shows path to tag in the status bar https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
 
+~HTML Preview
+to preview HTML files while editing them in VSCode
+https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode
+
 ~

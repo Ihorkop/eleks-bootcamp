@@ -4,7 +4,6 @@ https://bootcamp-place.slack.com/archives/C038GTJDHC5
 
 ----------------------
 Краткое руководство по Маркдауну. Шпаргалка по синтаксису Маркдауна.
-
 https://paulradzkov.com/2014/markdown_cheatsheet/
 
 https://www.markdownguide.org/basic-syntax/

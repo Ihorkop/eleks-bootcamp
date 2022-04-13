@@ -3,25 +3,24 @@ https://classroom.google.com/u/0/c/NDgwMjE2MjY1MDU0
 https://bootcamp-place.slack.com/archives/C038GTJDHC5
 
 ----------------------
-Краткое руководство по Маркдауну. Шпаргалка по синтаксису Маркдауна.
 https://paulradzkov.com/2014/markdown_cheatsheet/
+Краткое руководство по Маркдауну. Шпаргалка по синтаксису Маркдауна.
 
 https://www.markdownguide.org/basic-syntax/
 
+https://githowto.com/uk
 Якщо офіційна документація по Git здалася вам нудною, то зверніть увагу на цей ресурс.
 На сайті є чіткі задачі та методи їх рішення. Приємним бонусом є переклад не декілька мов.
-https://githowto.com/uk
-
 ---------------------
+https://developer.mozilla.org/en-US/docs/Web/HTML
 Resources for Developers,by Developers
 Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
-https://developer.mozilla.org/en-US/docs/Web/HTML
 
-"Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 https://caniuse.com/
+"Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
-Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
 https://getbootstrap.com/
+Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
 
 https://www.w3schools.com/
 W3Schools is a school for web developers, covering all the aspects of web development:

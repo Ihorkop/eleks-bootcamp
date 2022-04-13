@@ -2,6 +2,9 @@ https://classroom.google.com/u/0/c/NDgwMjE2MjY1MDU0
 
 https://bootcamp-place.slack.com/archives/C038GTJDHC5
 
+https://vscode.dev/
+VS Code online не вимагає установки. Можливо комусь підійде такий варіант.
+
 ----------------------
 https://paulradzkov.com/2014/markdown_cheatsheet/
 Краткое руководство по Маркдауну. Шпаргалка по синтаксису Маркдауна.
@@ -16,6 +19,10 @@ https://githowto.com/uk
 https://developer.mozilla.org/en-US/docs/Web/HTML
 Resources for Developers,by Developers
 Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
+
+Зручні довідники:
+https://htmlreference.io/
+https://cssreference.io/
 
 https://caniuse.com/
 "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.

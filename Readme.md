@@ -20,9 +20,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 Resources for Developers,by Developers
 Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 
-Зручні довідники:
 https://htmlreference.io/
 https://cssreference.io/
+Зручні довідники:
+
 
 https://caniuse.com/
 "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.

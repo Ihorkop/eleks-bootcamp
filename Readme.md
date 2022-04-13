@@ -11,6 +11,7 @@ https://www.markdownguide.org/basic-syntax/
 https://githowto.com/uk
 Якщо офіційна документація по Git здалася вам нудною, то зверніть увагу на цей ресурс.
 На сайті є чіткі задачі та методи їх рішення. Приємним бонусом є переклад не декілька мов.
+
 ---------------------
 https://developer.mozilla.org/en-US/docs/Web/HTML
 Resources for Developers,by Developers

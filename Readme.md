@@ -7,6 +7,7 @@ VS Code online не вимагає установки. Можливо комус
 
 ----------------------
 https://paulradzkov.com/2014/markdown_cheatsheet/
+
 Краткое руководство по Маркдауну. Шпаргалка по синтаксису Маркдауна.
 
 https://www.markdownguide.org/basic-syntax/

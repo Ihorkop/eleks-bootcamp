@@ -21,8 +21,9 @@ Resources for Developers,by Developers
 Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 
 https://htmlreference.io/
+Зручні довідники
 https://cssreference.io/
-Зручні довідники:
+
 
 
 https://caniuse.com/

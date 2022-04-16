@@ -24,6 +24,9 @@ https://htmlreference.io/
 Зручні довідники
 https://cssreference.io/
 
+https://css.in.ua/
+Український веб-довідник
+
 
 
 https://caniuse.com/
